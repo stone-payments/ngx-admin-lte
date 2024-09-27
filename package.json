@@ -24,7 +24,7 @@
     "@ngx-translate/http-loader": "^2.0.0",
     "admin-lte": "2.3.11",
     "angular2-toaster": "^4.0.1",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^5.0.0",
     "core-js": "^2.5.1",
     "font-awesome": "^4.7.0",
     "ionicons": "^3.0.0",
